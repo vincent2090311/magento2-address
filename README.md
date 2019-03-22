@@ -21,6 +21,6 @@ Please do not hesitate to contact me if you need more information
 Skype: victornguyen20
 
 ### Donations
-Please donate if you enjoy my extension.
+Please buy it if you enjoy my extension.
 
-[![](https://www.paypalobjects.com/en_US/i/btn/btn_donateCC_LG.gif)](https://www.paypal.com/cgi-bin/webscr?cmd=_s-xclick&hosted_button_id=AF2KTXHJSYRSA)
+[![](https://www.paypalobjects.com/webstatic/en_AU/i/buttons/btn_paywith_primary_l.png)](https://www.paypal.com/cgi-bin/webscr?cmd=_s-xclick&hosted_button_id=AF2KTXHJSYRSA)
