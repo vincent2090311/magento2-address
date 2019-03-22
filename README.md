@@ -20,7 +20,7 @@ Make city and township as dropdown for Magento 2
 Please do not hesitate to contact me if you need more information
 Skype: victornguyen20
 
-### Donations
+###
 Please buy it if you enjoy my extension.
 
 [![](https://www.paypalobjects.com/webstatic/en_AU/i/buttons/btn_paywith_primary_l.png)](https://www.paypal.com/cgi-bin/webscr?cmd=_s-xclick&hosted_button_id=AF2KTXHJSYRSA)
