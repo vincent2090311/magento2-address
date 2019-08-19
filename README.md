@@ -16,7 +16,7 @@ Make city and township as dropdown for Magento 2
 ![11](screenshots/11.png)
 ![12](screenshots/12.png)
 
-[Demo](http://demo.ebscommerce.asia/)
+[Demo](http://demo.ebscommerce.asia/){:target="_blank"}
 
 Please do not hesitate to contact me if you need more information
 Skype: victornguyen20
